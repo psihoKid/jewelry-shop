@@ -1,5 +1,5 @@
 # jewelry-shop
 
 To start
-API: npm run develop
+API: npm run develop \n
 Client: npm start
